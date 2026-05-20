@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Rider Mode
+
+This log tracks the cryptographic history and versioning for the song **Rider Mode** (rider-mode).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T22:35:25.544402 | `v1` | `0e03386ea02ef940e4198367249ac4e7cd0780aa4a360686597711bd0642a345` | `7b74b1df14fb36669daa66eaf591a38ffde537132d8923ef2f2b558379fa2713` | `2026-05-20_rider-mode-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
